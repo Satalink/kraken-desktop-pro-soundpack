@@ -6,43 +6,38 @@ moods:
     id: f9269f34-d8b4-4bad-a9cc-2c472a042cf4
     na: Default
     ev:
-      user_order_partially_filled:
-        n: punch-kick-46882.mp3
+      market_spread_narrowed:
+        n: stretch-rubber-rope-foley-18-209720.mp3
         v: 1.0
         p: 0.5
         e: []
-      application_launch:
-        n: awake-the-beast-106445.mp3
-        v: 1.0
-        p: 0.5
-        e: []
-      market_highlight_sell:
-        n: stab-f-01-brvhrtz-224599.mp3
-        v: 1.0
-        p: 0.5
-        e: []
-      market_sell:
-        n: cancel-116016.mp3
-        v: 1.0
-        p: 0.5
-        e: []
-      push_notification:
-        n: notification_alert.mp3
-        v: 2.0
-        p: 0.5
-        e: []
-      market_highlight_buy:
-        n: cha-ching-7053.mp3
-        v: 1.0
-        p: 0.5
-        e: []
-      user_order_error:
-        n: error-4-199275.mp3
+      market_local_high:
+        n: slide-whistle-up-326154.mp3
         v: 1.0
         p: 0.5
         e: []
       market_local_low:
         n: slide-whistle-down-323778.mp3
+        v: 1.0
+        p: 0.5
+        e: []
+      push_notification:
+        n: party-air-horn-sfx-2.mp3
+        v: 1.0
+        p: 0.5
+        e: []
+      user_order_filled:
+        n: revovler-sound-328431.mp3
+        v: 1.0
+        p: 0.5
+        e: []
+      user_order_cancelled:
+        n: cancel-36118.mp3
+        v: 1.0
+        p: 0.5
+        e: []
+      market_spread_widened:
+        n: wide-fripple-163401.mp3
         v: 1.0
         p: 0.5
         e: []
@@ -56,18 +51,18 @@ moods:
         v: 1.0
         p: 0.5
         e: []
-      market_spread_narrowed:
-        n: stretch-rubber-rope-foley-18-209720.mp3
+      application_launch:
+        n: awake-the-beast-106445.mp3
         v: 1.0
         p: 0.5
         e: []
-      user_order_rejected:
-        n: slowly-tear-a-paper-328141.mp3
+      user_order_partially_filled:
+        n: punch-kick-46882.mp3
         v: 1.0
         p: 0.5
         e: []
-      market_local_high:
-        n: slide-whistle-up-326154.mp3
+      data_connection_connected:
+        n: connected-94627.mp3
         v: 1.0
         p: 0.5
         e: []
@@ -76,8 +71,18 @@ moods:
         v: 1.0
         p: 0.5
         e: []
-      market_spread_widened:
-        n: wide-fripple-163401.mp3
+      market_large_order_removed:
+        n: canceled-02-228338.mp3
+        v: 1.0
+        p: 0.5
+        e: []
+      market_highlight_sell:
+        n: stab-f-01-brvhrtz-224599.mp3
+        v: 1.0
+        p: 0.5
+        e: []
+      user_order_rejected:
+        n: slowly-tear-a-paper-328141.mp3
         v: 1.0
         p: 0.5
         e: []
@@ -86,18 +91,13 @@ moods:
         v: 1.0
         p: 0.5
         e: []
-      data_connection_dropped:
-        n: drop-sound-effect-240899.mp3
+      market_sell:
+        n: cancel-116016.mp3
         v: 1.0
         p: 0.5
         e: []
-      user_order_cancelled:
-        n: cancel-36118.mp3
-        v: 1.0
-        p: 0.5
-        e: []
-      user_order_filled:
-        n: revovler-sound-328431.mp3
+      market_highlight_buy:
+        n: cha-ching-7053.mp3
         v: 1.0
         p: 0.5
         e: []
@@ -106,13 +106,13 @@ moods:
         v: 1.0
         p: 0.5
         e: []
-      market_large_order_removed:
-        n: canceled-02-228338.mp3
+      user_order_error:
+        n: error-4-199275.mp3
         v: 1.0
         p: 0.5
         e: []
-      data_connection_connected:
-        n: connected-94627.mp3
+      data_connection_dropped:
+        n: drop-sound-effect-240899.mp3
         v: 1.0
         p: 0.5
         e: []
